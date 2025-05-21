@@ -1,4 +1,4 @@
-🛠️ Writeups: Reverse Engineering @ UTEP
+# Writeups: Reverse Engineering @ UTEP
 
 This repository contains detailed lab reports and write-ups from the Reverse Engineering course at the University of Texas at El Paso (Fall 2024), taught by my mentor, Dr. Mohammad Saidur Rahman.
 
