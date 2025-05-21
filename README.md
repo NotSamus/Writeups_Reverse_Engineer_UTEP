@@ -1,7 +1,10 @@
-# Writeups_Reverse_Engineer_UTEP
+🛠️ Writeups: Reverse Engineering @ UTEP
 
-These are Lab reports that were done in the reverse engineer class at UTEP in Fall 2024, proctored by my mentor Dr. Mohammad Saidur Rahman.
+This repository contains detailed lab reports and write-ups from the Reverse Engineering course at the University of Texas at El Paso (Fall 2024), taught by my mentor, Dr. Mohammad Saidur Rahman.
 
-The use of this material is completely free as long as you reference this original lab.
+Each write-up covers practical reverse engineering techniques using industry-standard tools like Ghidra, IDA, YARA, Volatility, and more.
 
-Happy Hacking!!
+🧠 Whether you're a student, researcher, or cybersecurity enthusiast, you're welcome to use and build on this material — just be sure to credit the original lab.
+
+🎓 Knowledge is meant to be shared.
+💥 Happy hacking, and keep breaking things (ethically)!
